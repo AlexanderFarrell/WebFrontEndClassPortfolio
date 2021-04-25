@@ -3,7 +3,7 @@ let tableOfContents = document.getElementById('TableOfContents');
 const links = [
     {
         label: "Week1 Notes",
-        url: "week1/index.html"
+        url: "week1\\index.html"
     }
 ]
 
